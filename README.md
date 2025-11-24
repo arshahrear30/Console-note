@@ -1,5 +1,7 @@
 Programmer || Developer || Coder
 
+## 9.1
+
 Build Signed Apk
 Android Studio > Build > Generate Signed Bundle/Apk >
 
@@ -28,8 +30,43 @@ Always যেইটা করতে হবে। App এর source code এব�
 
 Source code ZIP file এ convert করবো । Android Studio >> File >> Export >> Export to Zip File (zip এ রাখলে file ভালো থাকে) > Online এ মূলত এই Zip file টা সংরক্ষণ করবো ।
 
+## 9.2
 
+GMAIL + 25USD (Duel Currency card / Debit card - এই card বানাতে passport লাগে, bank এ যোগাযোগ করতে হবে) লাগে Console খুলতে । আপনি পুরো জীবনে একটা developer account খুলতে পারবেন একজনের information দিয়ে একটা device এ যেমন: router, mobile, laptop, PC।
 
+Search: how to create Console developer account https://support.google.com/googleplay/android-developer/answer/6112435?hl=bn-Latn এখানে সব বলা আছে ।
 
+sign up for a Play Console developer account
 
+## 9.3
+Search: google developer policy https://play.google/developer-content-policy/
 
+## 9.4
+Console এ এমন একটা name দেবো যেটা অন্য কেউ Play Store এ দেয় নাই এবং unique এবং app relevant।
+
+google developer policy থেকে name guideline:
+
+Store Listing and Promotion
+
+ASO keyword
+ASO keyword দিয়ে Chat GPT এর help নিয়ে Short description লিখবো । কোনো প্রশংসা word লিখবো না । যেমন: Top, Best... একই word দুই-তিনবার না use করা।
+
+Full description লেখার সময় অন্য কোনো app এর সাথে compare না করি । এক word বারবার use না করি । Apps এর functionality গুলো লিখতে পারেন ।
+
+## 9.9
+Logo তে shadow অর Number অর Best app এইজাতীয় hype text গুলো লেখা যাবে না।
+
+Phone Screenshort (SS): SS দেওয়ার সময় অবশ্যই যাতে কোনো ad না দেখা যায় । কোনো famous person এর picture অর anything যেন না আসে ।
+
+Search: make screenshots for google play online tag: tag এ গিয়ে দেখবো আমার app কার কার সাথে যায় । ঐ অনুযায়ী select করবো ।
+
+Store listing contact details: email address for contract with developer এটা user-এর জন্য । এছাড়াও website। not mandatory ।
+
+External Marketing: Advertise এ select click থাকা ভালো এতে apkpure অর অন্যান্য market তাদের site এ আমাদের app promote করবে এবং আমাদের user gain হবে । good practice।
+
+## 9.12
+Console এ grow থেকে Main Store Listing এর কাজ করেছি এবং Store setting থেকে এইখানের form গুলো পূরণ করেছি ।
+
+Release > Production > Release name এ আমরা version দেবো । Release note > <en-US> এর মাঝখানে আপনি যা লিখবেন: app এর কী কী bug fix করেছেন অর কী কী update এনেছেন এইগুলো আরকি ।
+
+এখনই app upload করা যাবে না, আরও কিছু জিনিস পূরণ করতে হবে ।
