@@ -48,3 +48,14 @@ NEXT > Data types: Manifest এ গেলে তো জানবেন আপন
 এতক্ষণ আমরা simple app এর জন্য দেখছি, এখন আমরা signup login page থেকে data collection করে এমন app এর জন্য দেখবো 10.8 থেকে।
 
 ## 10.8
+Console > Policy and programs > App content > Data safety > Start >
+
+App e signup option thakle .. that mean jei APP e account create korar option acey oitay app delete korar option raka must ..
+
+Add a link that users can use to request that their account and associated data is deleted (Optional) 
+ei khane Yes e click diya URL option e click dibo ..ei khane je kono ekta website e delete er policy and kivabe delete kortay hoibay ta likhe oi URL ta dibo .. Proyojon e screenshort diba oi website e .. data koy din por delete hoibay eta o thakte hoibo.. Support team er contact thakte hoibo ..Google site e ei kaz gula likte pari link share korte pari ..
+
+## 10.9 
+jodi baccader jonno app banai tailay amra must  Family self-certificate ads sdk program valo moto porbo
+
+
