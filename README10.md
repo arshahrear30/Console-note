@@ -50,12 +50,34 @@ NEXT > Data types: Manifest এ গেলে তো জানবেন আপন
 ## 10.8
 Console > Policy and programs > App content > Data safety > Start >
 
-App e signup option thakle .. that mean jei APP e account create korar option acey oitay app delete korar option raka must ..
+App এ signup option থাকলে, তার মানে যেই APP-এ account create করার option আছে ঐটায় app delete করার option রাখা must ।
 
-Add a link that users can use to request that their account and associated data is deleted (Optional) 
-ei khane Yes e click diya URL option e click dibo ..ei khane je kono ekta website e delete er policy and kivabe delete kortay hoibay ta likhe oi URL ta dibo .. Proyojon e screenshort diba oi website e .. data koy din por delete hoibay eta o thakte hoibo.. Support team er contact thakte hoibo ..Google site e ei kaz gula likte pari link share korte pari ..
+Account Deletion Link
+Add a link that users can use to request that their account and associated data is deleted (Optional)
 
-## 10.9 
-jodi baccader jonno app banai tailay amra must  Family self-certificate ads sdk program valo moto porbo
+এইখানে Yes এ click দিয়ে URL option এ click দেবো । এইখানে যেকোনো একটা website এ delete এর policy এবং কীভাবে delete করতে হবে তা লিখে ঐ URLটা দেবো । প্রয়োজনে screenshot দিবা ঐ website এ । data কয়দিন পর delete হবে এটাও থাকতে হবে । Support team এর contact থাকতে হবে । Google site এ এই কাজগুলো লিখতে পারি, link share করতে পারি ।
 
+## 10.9
+যদি বাচ্চাদের জন্য app বানাই তাহলে আমরা must Family self-certificate ads sdk program ভালো মতো পড়বো ।
+
+## 10.12
+Console > Policy and programs > App content > App Access > এইখানে দামী একটা account দিতে হবে Google-কে । যেন Google এর botটা দিয়ে account check করতে পারে । 2টা option থাকে:
+
+All function in my app is available without any access restrictions: special access প্রয়োজন নাই ।
+
+আর যদি sign up login option থাকে তাহলে: All or some functionality in my app is restricted.. এ click দেবো । Instruction name: login to TFS app Demo User name এবং password only for console নিচে গিয়ে instruction লিখে দিতে হবে । app access এর নিয়ম, guest mode কেমনে use করবে, 2 step bypass কেমনে করবে, WhatsApp এর মতো QR code scanner দিয়ে আরেক device এ login করা যায় কি না, কেমনে করে, এই সব থাকলে instruction দেবো ।
+
+## 10.13
+Console > Policy and programs > App content > Content ratings
+
+এটাতে একটা mail দিতে হবে । এই mail এ আপনার সাথে console agreement করবে আর কি । category: Game, Social, All other... (3:35 second)
+
+এটা ভালো মতো বুঝে answer দেবো । App update করলে আবার update করা যায় । এটা খুব sensitive। তাই প্রত্যেকটা option এর learn more এ গিয়ে ভালো মতো বুঝে Yes No দেবো ।
+
+## 10.14
+Could your store listing unintentionally appeal to child?? তার মানে আপনার app এর logoটা বাচ্চাদের এমনিতেই আকৃষ্ট করে কি না । No দেওয়াই ভালো ।
+
+Does your app use advertising ID? Yes দিতে পারো যদি Manifest এ appটা ad id দেয় । SDK 33 up থাকে । Check mark: Advertising or marketing দিতে পারো । আরও অন্যগুলোও দিতে পারো ভালো মতো learn more পড়ে ।
+
+Turn off release errors: এটাতে check mark select করবো না । করলে app এ error show করবে না । আমরা তো চাই error হলে show করুক যাতে আরও better experience আনতে পারি । তাই এটা uncheck-ই থাকুক ।
 
