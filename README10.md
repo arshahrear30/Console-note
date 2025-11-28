@@ -81,3 +81,5 @@ Does your app use advertising ID? Yes দিতে পারো যদি Manife
 
 Turn off release errors: এটাতে check mark select করবো না । করলে app এ error show করবে না । আমরা তো চাই error হলে show করুক যাতে আরও better experience আনতে পারি । তাই এটা uncheck-ই থাকুক ।
 
+## Update 
+Play Console খুললে 1 বছরে app না ছাড়লে এটা auto close হয়ে যাবে। আর app ছাড়লে 1 বছরের মধ্যে 1k download হতে হবে। Account সবই ঠিক আছে, 6 মাসের মধ্যে আপনি login করেন নাই console এ তাহলেও কিন্তু terminate হবেন। Console Account details এ গিয়ে email এবং contact verified হতে হবে। App upload দিয়ে পরে আবার idea change করলে app এবং account terminate হয়ে যাবে। App এ এমন কোনো link অথবা button বানানো যাবে না যেটা coming soon অর এখন কোনো কাজে লাগে না। এমন কোনো information দেওয়া যাবে না যেটা ভবিষ্যতে আসবে এমন। তাহলে কিন্তু misguide এর under এ পড়বে। :: এইগুলোকেই Broken Link বলে। app এ বেশি বেশি try catch use করবো, এতে crash কম হয়। Internal testing করবো অনেকবার অনেক phone এ। Internal testing এ app upload করে দেখলে Google 24 ঘণ্টা বা এর কম-বেশি সময়ের মধ্যে একটা report দেয়। সেই report Console এর pre launching এ পাবেন। ঐটাতেই Google অনেক bug identify করে দেয়।
