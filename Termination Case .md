@@ -16,3 +16,6 @@ High risk problem : অনেক সময় কিছু button দিয়ে ব�
 Apps এ অবশ্যই সব case চিন্তা করতে হয় । ধরো server থেকে আমার data load করছি... কোনো কারণে hosting এর date over হয়ে গেছে, তখন তো সব মুছে যাবে, তাই condition এ রাখতে হবে server fail হলে অথবা internet fail হলে কী show করবে ।
 
 কোনোভাবেই multiple console খোলা যাবে না । same network এ আরেকটা console থাকলে termination হবে । each and everything unique থাকতে হবে।
+
+
+কখনো এমন করা যাবে না । একটা console এ যেই app upload দিচ্ছি, পরে reject হওয়ার পর same app package name change করে হালকা update করে 2nd console এ upload দেই । এইভাবে করলে 2nd console এও terminate হবে।
