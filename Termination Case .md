@@ -10,3 +10,9 @@ Library এর SDK কী কী data collect করে ভালো মতো d
 
 library use করার আগেই অবশ্যই দেখে নেব যে ঐটা java script এর ভিতর কি না, Kotlin base কি না । webview এর কাজগুলোতে javascript এর code use করায় ID hack হয়ে যাওয়ার possibility থাকে, তাই console এটাকে harmful ভাবে । 
 account terminate হয় । library use করতে এইজন্য সতর্ক হবো । Youtube embed অর webview load library গুলোতে এই type এর javascript দিয়ে তৈরি library থাকলে ঐটা use করবো না ।
+
+High risk problem : অনেক সময় কিছু button দিয়ে বলি coming soon অথবা অপ্রয়োজনীয় button, তখন কিন্তু app reject হয়।bApp transfer করলেও max time app console নষ্ট হয় । Change করতে হলে পুরা Device change করতে হবে । এমন করলে হবে না , যে new windows দিলাম বা mobile reset করলাম । এভাবেও লাভ নাই । router change and everything phone number contract list eatch and everything change করতে হয় । কোন না কোন ভাবে google bot ধরে পেলে তাই আগের account নিয়ে recovery try করাই উওম । Button দিলে তার একটা effect দেওয়ার চেষ্টা করবো । 
+
+Apps এ অবশ্যই সব case চিন্তা করতে হয় । ধরো server থেকে আমার data load করছি... কোনো কারণে hosting এর date over হয়ে গেছে, তখন তো সব মুছে যাবে, তাই condition এ রাখতে হবে server fail হলে অথবা internet fail হলে কী show করবে ।
+
+কোনোভাবেই multiple console খোলা যাবে না । same network এ আরেকটা console থাকলে termination হবে । each and everything unique থাকতে হবে।
